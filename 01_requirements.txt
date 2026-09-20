@@ -1,0 +1,8 @@
+osmnx
+geopandas
+networkx
+pandas
+numpy
+shapely
+matplotlib
+scipy
