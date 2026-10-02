@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "chandigarh_building_extraction_envelope",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "city": "Chandigarh", "method": "geofabrik-direct-temporary-extraction-window", "temporary_half_width_km": 50.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 77.30194408112466, 30.284144412504492 ], [ 77.30194408112466, 31.182455587495507 ], [ 76.256855918875331, 31.182455587495507 ], [ 76.256855918875331, 30.284144412504492 ], [ 77.30194408112466, 30.284144412504492 ] ] ] } }
+]
+}
