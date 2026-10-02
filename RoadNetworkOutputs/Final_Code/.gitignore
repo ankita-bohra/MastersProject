@@ -1,0 +1,5 @@
+outputs/*
+!outputs/boundaries/
+tools/*
+__pycache__/
+cache/

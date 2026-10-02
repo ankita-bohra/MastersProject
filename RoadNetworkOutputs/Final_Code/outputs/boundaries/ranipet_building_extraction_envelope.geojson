@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ranipet_building_extraction_envelope",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "city": "Ranipet", "method": "geofabrik-direct-temporary-extraction-window", "temporary_half_width_km": 50.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 79.794131168869953, 12.47574441250449 ], [ 79.794131168869953, 13.374055587495508 ], [ 78.872468831130035, 13.374055587495508 ], [ 78.872468831130035, 12.47574441250449 ], [ 79.794131168869953, 12.47574441250449 ] ] ] } }
+]
+}

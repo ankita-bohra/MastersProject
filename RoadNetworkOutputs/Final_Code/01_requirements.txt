@@ -1,0 +1,15 @@
+# RNQI pipeline and urban-core builder
+osmnx
+geopandas>=1.0
+networkx
+pandas
+numpy
+shapely>=2.0
+pyproj
+pyogrio
+matplotlib
+scipy
+
+# The urban-core builder also invokes the `osmium` command-line program
+# to extract features from Geofabrik PBF files. It is a system tool, not
+# a Python package; on macOS install it with: brew install osmium-tool
